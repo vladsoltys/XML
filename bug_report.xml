@@ -1,1 +1,14 @@
 
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Summary>Loggin Page. The button 'Sigh in' not responding after clicking on it</Summary>
+    <STR>
+        <step_1>Open the login page</step_1>
+        <step_2>Enter username and password</step_2>
+        <step_3>Click on the button 'Sigh in'</step_3>
+    </STR>
+    <Result>The button 'Sigh in' not responding after clicking on it</Result>
+    <Expected_result>After clicking the button, the user page opens</Expected_result>
+    <Severity>Major</Severity>
+    <Priority>High</Priority>
+</root>
