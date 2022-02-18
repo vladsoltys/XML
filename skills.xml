@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <root>
+            <skills_to_be_learned_on_the_course>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>What is a client-server architecture</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>HTTP Methods of requests to the server</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>HTTP server response codes</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Structures of HTTP requests and responses</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>What is JSON, XML. Their structure</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>API testing via Postman (JS, API autotests)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Removing and reading logs from an external server</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Sniffing http web traffic via Charles and Fiddler</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Dev Tools of web browsers (Google Chrome, FireFox)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>VPN. (How it works, why you need it, how to use it, tool options)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Mobile testing</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Feature iOS, Android, guidelines</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Building iOS applications on XCode</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Building Android applications on Android Studio</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>ADB (android device management)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Setting up proxy and vpn on iOS and Android</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Basics of bash scripting, automation of routine tasks on the server</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Access to remote servers</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Postgres database (installation, configuration and use)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Non-relational database Redis (installation, configuration and use)</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Load testing in Jmeter</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Scrum development methodology</skills_to_be_learned_on_the_course>
+            <skills_to_be_learned_on_the_course>Python. (Learning the basics. Creating a client-server application)</skills_to_be_learned_on_the_course>
+        </root>
