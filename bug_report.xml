@@ -1,5 +1,5 @@
 
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0"  encoding="UTF-8" ?>
 <root>
     <Bug_id>26</Bug_id>
     <Summary>Loggin Page. The button 'Sigh in' not responding after clicking on it</Summary>
