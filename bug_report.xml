@@ -1,6 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
+    <Bug_id>26</Bug_id>
     <Summary>Loggin Page. The button 'Sigh in' not responding after clicking on it</Summary>
     <STR>
         <step_1>Open the login page</step_1>
@@ -11,4 +12,8 @@
     <Expected_result>After clicking the button, the user page opens</Expected_result>
     <Severity>Major</Severity>
     <Priority>High</Priority>
+    <Enviroment>
+        <OS>Windows 10 Pro.64-разрядная операционная система, процессор x64</OS>
+        <Browser>Google Chrome v.98.0.4758.102 (Розробка) (64-розрядна версія)</Browser>
+    </Enviroment>
 </root>
